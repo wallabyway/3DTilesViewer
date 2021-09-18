@@ -1,5 +1,31 @@
 # 3DTilesViewer
 
+### minimal (with ADD instead of REPLACE)
+- tileset.json with glb building https://github.com/CesiumGS/cesium/blob/e36c0d8fbb8f0251233caa339769a03d4ea9f770/Specs/Data/Models/GltfLoader/BuildingsMetadata/glTF/tileset.json
+- 3d-tiles-samples: https://github.com/CesiumGS/3d-tiles-samples/blob/main/tilesets/TilesetWithRequestVolume/building.b3dm
+
+
+### Python
+Triangles:
+- demo: mapbox + 3dtiles : http://beta.geodan.nl/mapbox3d/#15/53.03883/4.84883/-36.8/23
+- mapbox-3dtiles: https://github.com/Geodan/mapbox-3dtiles
+  - Demo:  https://geodan.github.io/mapbox-3dtiles/#15.53/51.901239/4.489204/17.2/50
+- tileset generator py: https://github.com/Geodan/pg2b3dm
+
+PointCloud:
+- pointcloud LAS and XYZ files to a 3D Tiles tileset: https://github.com/Oslandia/py3dtiles
+
+https://github.com/PrincessGod/objTo3d-tiles
+
+
+IFC to Tiles:
+https://github.com/Erfan-Shooraj/ifc2b3dm
+
+
+samples (tileset):
+https://github.com/ebeaufay/ThreedTilesViewer.github.io
+
+
 3DTiles viewer for three.js
 
 demo : https://ebeaufay.github.io/ThreedTilesViewer.github.io/
