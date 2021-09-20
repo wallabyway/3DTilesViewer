@@ -3,7 +3,9 @@
 ### minimal (with ADD instead of REPLACE)
 - tileset.json with glb building https://github.com/CesiumGS/cesium/blob/e36c0d8fbb8f0251233caa339769a03d4ea9f770/Specs/Data/Models/GltfLoader/BuildingsMetadata/glTF/tileset.json
 - 3d-tiles-samples: https://github.com/CesiumGS/3d-tiles-samples/blob/main/tilesets/TilesetWithRequestVolume/building.b3dm
+- Cesium official: https://github.com/CesiumGS/3d-tiles-samples
 
+![gif](https://github.com/CesiumGS/3d-tiles-samples/raw/main/tilesets/TilesetWithDiscreteLOD/screenshot/screenshot.gif)
 
 ### Python
 Triangles:
